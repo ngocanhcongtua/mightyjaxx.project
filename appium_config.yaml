@@ -1,0 +1,7 @@
+appium: 
+remote url: "https://127.0.0.1:4723/wd/hub"
+platformName: "Android"
+deviceName: "Live4"
+app: "app: "./config/Hidden_Camera_Detector.apk"
+automationName: "UiAutomator2"
+ 
